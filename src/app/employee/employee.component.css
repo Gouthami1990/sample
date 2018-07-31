@@ -1,0 +1,14 @@
+table{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    font-size: large;
+    
+    
+    }
+    thead{
+        background-color: gray;
+    }
+    td{
+        border: 1px solid black;
+    }
